@@ -18,8 +18,8 @@ My favorites languages and tools: <br>
 <br>
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="20" height="20"/> <b>Flutter</b>
 
-- 👨‍💻 All of my projects are available at [https://github.com/brunocamboim](https://github.com/brunocamboim)
-- 📫 How to reach me **bruno.camboim1997@gmail.com**
+<!-- - 👨‍💻 All of my projects are available at [https://github.com/brunocamboim](https://github.com/brunocamboim) -->
+<!-- - 📫 How to reach me **bruno.camboim1997@gmail.com** -->
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
