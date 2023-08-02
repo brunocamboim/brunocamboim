@@ -5,17 +5,12 @@
 
 <!-- - 🌱 I’m currently learning **Flutter** 📱 -->
 
-My favorites languages and tools: <br>
-<img src="https://i.ibb.co/vVxmyN2/node.png" width="20"/> <b>Node.js</b>
-<br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <b>JavaScript</b>
-<br>
-<img src="https://i.ibb.co/PZ2XZgr/ts.png" width="20"/> <b>TypeScript</b>
-<br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="20" height="20"/> <b>AWS - Amazon Web Services</b>
-<br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="20" height="20"/> <b>Vue.js</b>
-<br>
+My favorites tools: 
+<img src="https://i.ibb.co/vVxmyN2/node.png" width="20"/> <b>Node.js</b>, 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <b>JavaScript</b>,
+<img src="https://i.ibb.co/PZ2XZgr/ts.png" width="20"/> <b>TypeScript</b>,
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="20" height="20"/> <b>AWS - Amazon Web Services</b>,
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="20" height="20"/> <b>Vue.js</b>,
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="20" height="20"/> <b>Flutter</b>
 
 <!-- - 👨‍💻 All of my projects are available at [https://github.com/brunocamboim](https://github.com/brunocamboim) -->
