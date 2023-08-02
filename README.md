@@ -16,8 +16,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-
-My favorites languages and tools: <br>
 <img src="https://i.ibb.co/vVxmyN2/node.png" width="20"/> <b>Node.js</b>
 <br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <b>JavaScript</b>
