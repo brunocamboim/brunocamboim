@@ -15,8 +15,7 @@
 <a href="https://instagram.com/_brunocamboim" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_brunocamboim" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<br>
+My favorites languages and tools: 
 <img src="https://i.ibb.co/vVxmyN2/node.png" width="20"/> <b>Node.js</b>
 <br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <b>JavaScript</b>
