@@ -9,12 +9,6 @@
 
 - 📫 How to reach me **bruno.camboim1997@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bruno-camboim3b6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bruno-camboim3b6" height="30" width="40" /></a>
-<a href="https://instagram.com/_brunocamboim" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_brunocamboim" height="30" width="40" /></a>
-</p>
-
 My favorites languages and tools: 
 <img src="https://i.ibb.co/vVxmyN2/node.png" width="20"/> <b>Node.js</b>
 <br>
@@ -27,3 +21,9 @@ My favorites languages and tools:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="20" height="20"/> <b>Vue.js</b>
 <br>
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="20" height="20"/> <b>Flutter</b>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/bruno-camboim3b6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bruno-camboim3b6" height="30" width="40" /></a>
+<a href="https://instagram.com/_brunocamboim" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_brunocamboim" height="30" width="40" /></a>
+</p>
